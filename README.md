@@ -11,3 +11,7 @@ This repository contains educational materials and tutorials that were developed
 - [Basics about PyTorch](week2-torch.ipynb)
 - [MNIST classifier](week2-MNIST.ipynb)
 - [metrics: accuracy, precision, recall and AUROC](week3_auroc.ipynb)
+
+
+Why don't you do your best?
+![Why don't you do your best](resource/why_dont_you.jpg)
