@@ -14,4 +14,5 @@ This repository contains educational materials and tutorials that were developed
 
 
 Why don't you do your best?
+
 ![Why don't you do your best](resource/why_dont_you.jpg)
